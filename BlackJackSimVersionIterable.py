@@ -134,6 +134,7 @@ def play():
         loseperhour = (ogbankroll/(averagelose/100))
         print(" Average Hands played before losing: ", averagelose)
         print(" Average amount losing per hour, ", loseperhour)
+    input("Press any key to exit")
 
 
 def play1():
